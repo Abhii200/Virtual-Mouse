@@ -60,6 +60,7 @@ Select virtualMouse.exe and click OK.
 Name the Shortcut:
 
 Give the shortcut a name (e.g., Virtual Mouse) and click Finish.
+
 macOS/Linux
 Create a .desktop File:
 
